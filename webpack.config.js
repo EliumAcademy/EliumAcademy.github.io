@@ -4,7 +4,7 @@ var autoprefixer = require('autoprefixer');
 
 module.exports = {
     //entry: ['babel-polyfill', './index.js'],
-    entry: ['babel-polyfill', './exercises/9.3/index.js'],
+    entry: ['babel-polyfill', './exercises/solutions/9.3/index.js'],
 
     devServer: {
         inline: true,
