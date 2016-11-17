@@ -1,0 +1,6 @@
+{
+  "name": "Eliumacademy.GitHub.io/blog/Athorization-from-scratch-in-nodeJS",
+  "tagline": "First blog example",
+  "body": "### Authorization from Scratch in NodeJs\r\n\r\nComing from a rails background, the first thing I learned was authorization, following the Ruby on Rails Tutorial by Michael Hartl. It was long after that I discovered how much easy it was to use something like Device to manage my apps authorization procedure. However, after teaching rails I realized how important was the understanding of authorization for an app developer. A simple sign up/in/out procedure can be defined in the following way\r\n\r\n```jsx\r\nclass Hello React.Component{\r\n    render(){\r\n        return (<div></div>)\r\n    }\r\n}\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
